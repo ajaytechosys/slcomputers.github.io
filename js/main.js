@@ -1,0 +1,1 @@
+$("#enquiryform").submit(function(){var a=$("#enquiryform").serialize();return $.post("http://ajaymugil.com/sl-mail/mail.php",a,function(a){console.log(a),parseInt(a)>=1?alert("Thank you.We Will get back to u soon."):alert("oops !! something went wrong.Please try again later.")}),!1});
