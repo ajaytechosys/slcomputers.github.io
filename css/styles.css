@@ -3584,18 +3584,18 @@ section.slider ul li img {
   font-weight: 300; }
 
 ::-webkit-input-placeholder {
-  color: #3f3f3f; }
+  color: #BFBFBF; }
 
 :-moz-placeholder {
   /* Firefox 18- */
-  color: #3f3f3f; }
+  color: #BFBFBF; }
 
 ::-moz-placeholder {
   /* Firefox 19+ */
-  color: #3f3f3f; }
+  color: #BFBFBF; }
 
 :-ms-input-placeholder {
-  color: #3f3f3f; }
+  color: #BFBFBF; }
 
 .request-form form span.name {
   position: absolute;
